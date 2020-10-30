@@ -13,7 +13,9 @@
               <div class="bg-white shadow rounded">
                 <div class="image-block-wrapper">
                   <div class="image-block col-lg-6">
-                    <div class="image-block-bg bg-image" data-image-src="style/images/art/g1.jpg"></div>
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g1.jpg">
+                    </div>
                   </div>
                   <!--/.image-block -->
                   <div class="container-fluid">
@@ -21,9 +23,9 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">1st floor</h4>
+                            <h4 class="mb-15">Basement</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
-                            <div class="arrow-link"><a href="gallery-post.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
+                            <div class="arrow-link"><router-link to="/basement"> See Photos <i class="mi-arrow-right"></i></router-link> </div>
                           </div>
                         </div>
                         <!-- /.box -->
@@ -43,7 +45,9 @@
               <div class="bg-white shadow rounded">
                 <div class="image-block-wrapper">
                   <div class="image-block col-lg-6">
-                    <div class="image-block-bg bg-image" data-image-src="style/images/art/g2.jpg"></div>
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g2.jpg" alt="">
+                    </div>
                   </div>
                   <!--/.image-block -->
                   <div class="container-fluid">
@@ -73,7 +77,9 @@
               <div class="bg-white shadow rounded">
                 <div class="image-block-wrapper">
                   <div class="image-block col-lg-6">
-                    <div class="image-block-bg bg-image" data-image-src="style/images/art/g3.jpg"></div>
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g3.jpg" alt="">
+                    </div>
                   </div>
                   <!--/.image-block -->
                   <div class="container-fluid">
@@ -103,7 +109,9 @@
               <div class="bg-white shadow rounded">
                 <div class="image-block-wrapper">
                   <div class="image-block col-lg-6">
-                    <div class="image-block-bg bg-image" data-image-src="style/images/art/g4.jpg"></div>
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g4.jpg" alt="">
+                    </div>
                   </div>
                   <!--/.image-block -->
                   <div class="container-fluid">
@@ -133,7 +141,9 @@
               <div class="bg-white shadow rounded">
                 <div class="image-block-wrapper">
                   <div class="image-block col-lg-6">
-                    <div class="image-block-bg bg-image" data-image-src="style/images/art/g5.jpg"></div>
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g5.jpg" alt="">
+                    </div>
                   </div>
                   <!--/.image-block -->
                   <div class="container-fluid">
@@ -163,7 +173,9 @@
               <div class="bg-white shadow rounded">
                 <div class="image-block-wrapper">
                   <div class="image-block col-lg-6">
-                    <div class="image-block-bg bg-image" data-image-src="style/images/art/g6.jpg"></div>
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g6.jpg" alt="">
+                    </div>
                   </div>
                   <!--/.image-block -->
                   <div class="container-fluid">
@@ -193,7 +205,9 @@
               <div class="bg-white shadow rounded">
                 <div class="image-block-wrapper">
                   <div class="image-block col-lg-6">
-                    <div class="image-block-bg bg-image" data-image-src="style/images/art/g7.jpg"></div>
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g7.jpg" alt="">
+                    </div>
                   </div>
                   <!--/.image-block -->
                   <div class="container-fluid">
@@ -223,7 +237,9 @@
               <div class="bg-white shadow rounded">
                 <div class="image-block-wrapper">
                   <div class="image-block col-lg-6">
-                    <div class="image-block-bg bg-image" data-image-src="style/images/art/g8.jpg"></div>
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g8.jpg" alt="">
+                    </div>
                   </div>
                   <!--/.image-block -->
                   <div class="container-fluid">
@@ -234,6 +250,595 @@
                             <h4 class="mb-15">Food</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post4.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
+                          </div>
+                        </div>
+                        <!-- /.box -->
+                      </div>
+                      <!--/column -->
+                    </div>
+                    <!--/.row -->
+                  </div>
+                  <!--/.container-fluid -->
+                </div>
+                <!--/.image-block-wrapper -->
+              </div>
+              <!-- /.bg -->
+            </div>
+            <div class="item grid-sizer col-lg-6">
+              <div class="bg-white shadow rounded">
+                <div class="image-block-wrapper">
+                  <div class="image-block col-lg-6">
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g2.jpg" alt="">
+                    </div>
+                  </div>
+                  <!--/.image-block -->
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-lg-6 offset-lg-6">
+                        <div class="box d-flex">
+                          <div class="align-self-center">
+                            <h4 class="mb-15">Weddings</h4>
+                            <p>Etiam porta sem malesuada magna mollis euismod.</p>
+                            <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
+                          </div>
+                        </div>
+                        <!-- /.box -->
+                      </div>
+                      <!--/column -->
+                    </div>
+                    <!--/.row -->
+                  </div>
+                  <!--/.container-fluid -->
+                </div>
+                <!--/.image-block-wrapper -->
+              </div>
+              <!-- /.bg -->
+            </div>
+            <div class="item grid-sizer col-lg-6">
+              <div class="bg-white shadow rounded">
+                <div class="image-block-wrapper">
+                  <div class="image-block col-lg-6">
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g2.jpg" alt="">
+                    </div>
+                  </div>
+                  <!--/.image-block -->
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-lg-6 offset-lg-6">
+                        <div class="box d-flex">
+                          <div class="align-self-center">
+                            <h4 class="mb-15">Weddings</h4>
+                            <p>Etiam porta sem malesuada magna mollis euismod.</p>
+                            <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
+                          </div>
+                        </div>
+                        <!-- /.box -->
+                      </div>
+                      <!--/column -->
+                    </div>
+                    <!--/.row -->
+                  </div>
+                  <!--/.container-fluid -->
+                </div>
+                <!--/.image-block-wrapper -->
+              </div>
+              <!-- /.bg -->
+            </div>
+            <div class="item grid-sizer col-lg-6">
+              <div class="bg-white shadow rounded">
+                <div class="image-block-wrapper">
+                  <div class="image-block col-lg-6">
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g2.jpg" alt="">
+                    </div>
+                  </div>
+                  <!--/.image-block -->
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-lg-6 offset-lg-6">
+                        <div class="box d-flex">
+                          <div class="align-self-center">
+                            <h4 class="mb-15">Weddings</h4>
+                            <p>Etiam porta sem malesuada magna mollis euismod.</p>
+                            <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
+                          </div>
+                        </div>
+                        <!-- /.box -->
+                      </div>
+                      <!--/column -->
+                    </div>
+                    <!--/.row -->
+                  </div>
+                  <!--/.container-fluid -->
+                </div>
+                <!--/.image-block-wrapper -->
+              </div>
+              <!-- /.bg -->
+            </div>
+            <div class="item grid-sizer col-lg-6">
+              <div class="bg-white shadow rounded">
+                <div class="image-block-wrapper">
+                  <div class="image-block col-lg-6">
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g2.jpg" alt="">
+                    </div>
+                  </div>
+                  <!--/.image-block -->
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-lg-6 offset-lg-6">
+                        <div class="box d-flex">
+                          <div class="align-self-center">
+                            <h4 class="mb-15">Weddings</h4>
+                            <p>Etiam porta sem malesuada magna mollis euismod.</p>
+                            <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
+                          </div>
+                        </div>
+                        <!-- /.box -->
+                      </div>
+                      <!--/column -->
+                    </div>
+                    <!--/.row -->
+                  </div>
+                  <!--/.container-fluid -->
+                </div>
+                <!--/.image-block-wrapper -->
+              </div>
+              <!-- /.bg -->
+            </div>
+            <div class="item grid-sizer col-lg-6">
+              <div class="bg-white shadow rounded">
+                <div class="image-block-wrapper">
+                  <div class="image-block col-lg-6">
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g2.jpg" alt="">
+                    </div>
+                  </div>
+                  <!--/.image-block -->
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-lg-6 offset-lg-6">
+                        <div class="box d-flex">
+                          <div class="align-self-center">
+                            <h4 class="mb-15">Weddings</h4>
+                            <p>Etiam porta sem malesuada magna mollis euismod.</p>
+                            <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
+                          </div>
+                        </div>
+                        <!-- /.box -->
+                      </div>
+                      <!--/column -->
+                    </div>
+                    <!--/.row -->
+                  </div>
+                  <!--/.container-fluid -->
+                </div>
+                <!--/.image-block-wrapper -->
+              </div>
+              <!-- /.bg -->
+            </div>
+            <div class="item grid-sizer col-lg-6">
+              <div class="bg-white shadow rounded">
+                <div class="image-block-wrapper">
+                  <div class="image-block col-lg-6">
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g2.jpg" alt="">
+                    </div>
+                  </div>
+                  <!--/.image-block -->
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-lg-6 offset-lg-6">
+                        <div class="box d-flex">
+                          <div class="align-self-center">
+                            <h4 class="mb-15">Weddings</h4>
+                            <p>Etiam porta sem malesuada magna mollis euismod.</p>
+                            <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
+                          </div>
+                        </div>
+                        <!-- /.box -->
+                      </div>
+                      <!--/column -->
+                    </div>
+                    <!--/.row -->
+                  </div>
+                  <!--/.container-fluid -->
+                </div>
+                <!--/.image-block-wrapper -->
+              </div>
+              <!-- /.bg -->
+            </div>
+            <div class="item grid-sizer col-lg-6">
+              <div class="bg-white shadow rounded">
+                <div class="image-block-wrapper">
+                  <div class="image-block col-lg-6">
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g2.jpg" alt="">
+                    </div>
+                  </div>
+                  <!--/.image-block -->
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-lg-6 offset-lg-6">
+                        <div class="box d-flex">
+                          <div class="align-self-center">
+                            <h4 class="mb-15">Weddings</h4>
+                            <p>Etiam porta sem malesuada magna mollis euismod.</p>
+                            <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
+                          </div>
+                        </div>
+                        <!-- /.box -->
+                      </div>
+                      <!--/column -->
+                    </div>
+                    <!--/.row -->
+                  </div>
+                  <!--/.container-fluid -->
+                </div>
+                <!--/.image-block-wrapper -->
+              </div>
+              <!-- /.bg -->
+            </div>
+            <div class="item grid-sizer col-lg-6">
+              <div class="bg-white shadow rounded">
+                <div class="image-block-wrapper">
+                  <div class="image-block col-lg-6">
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g2.jpg" alt="">
+                    </div>
+                  </div>
+                  <!--/.image-block -->
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-lg-6 offset-lg-6">
+                        <div class="box d-flex">
+                          <div class="align-self-center">
+                            <h4 class="mb-15">Weddings</h4>
+                            <p>Etiam porta sem malesuada magna mollis euismod.</p>
+                            <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
+                          </div>
+                        </div>
+                        <!-- /.box -->
+                      </div>
+                      <!--/column -->
+                    </div>
+                    <!--/.row -->
+                  </div>
+                  <!--/.container-fluid -->
+                </div>
+                <!--/.image-block-wrapper -->
+              </div>
+              <!-- /.bg -->
+            </div>
+            <div class="item grid-sizer col-lg-6">
+              <div class="bg-white shadow rounded">
+                <div class="image-block-wrapper">
+                  <div class="image-block col-lg-6">
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g2.jpg" alt="">
+                    </div>
+                  </div>
+                  <!--/.image-block -->
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-lg-6 offset-lg-6">
+                        <div class="box d-flex">
+                          <div class="align-self-center">
+                            <h4 class="mb-15">Weddings</h4>
+                            <p>Etiam porta sem malesuada magna mollis euismod.</p>
+                            <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
+                          </div>
+                        </div>
+                        <!-- /.box -->
+                      </div>
+                      <!--/column -->
+                    </div>
+                    <!--/.row -->
+                  </div>
+                  <!--/.container-fluid -->
+                </div>
+                <!--/.image-block-wrapper -->
+              </div>
+              <!-- /.bg -->
+            </div>
+            <div class="item grid-sizer col-lg-6">
+              <div class="bg-white shadow rounded">
+                <div class="image-block-wrapper">
+                  <div class="image-block col-lg-6">
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g2.jpg" alt="">
+                    </div>
+                  </div>
+                  <!--/.image-block -->
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-lg-6 offset-lg-6">
+                        <div class="box d-flex">
+                          <div class="align-self-center">
+                            <h4 class="mb-15">Weddings</h4>
+                            <p>Etiam porta sem malesuada magna mollis euismod.</p>
+                            <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
+                          </div>
+                        </div>
+                        <!-- /.box -->
+                      </div>
+                      <!--/column -->
+                    </div>
+                    <!--/.row -->
+                  </div>
+                  <!--/.container-fluid -->
+                </div>
+                <!--/.image-block-wrapper -->
+              </div>
+              <!-- /.bg -->
+            </div>
+            <div class="item grid-sizer col-lg-6">
+              <div class="bg-white shadow rounded">
+                <div class="image-block-wrapper">
+                  <div class="image-block col-lg-6">
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g2.jpg" alt="">
+                    </div>
+                  </div>
+                  <!--/.image-block -->
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-lg-6 offset-lg-6">
+                        <div class="box d-flex">
+                          <div class="align-self-center">
+                            <h4 class="mb-15">Weddings</h4>
+                            <p>Etiam porta sem malesuada magna mollis euismod.</p>
+                            <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
+                          </div>
+                        </div>
+                        <!-- /.box -->
+                      </div>
+                      <!--/column -->
+                    </div>
+                    <!--/.row -->
+                  </div>
+                  <!--/.container-fluid -->
+                </div>
+                <!--/.image-block-wrapper -->
+              </div>
+              <!-- /.bg -->
+            </div>
+            <div class="item grid-sizer col-lg-6">
+              <div class="bg-white shadow rounded">
+                <div class="image-block-wrapper">
+                  <div class="image-block col-lg-6">
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g2.jpg" alt="">
+                    </div>
+                  </div>
+                  <!--/.image-block -->
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-lg-6 offset-lg-6">
+                        <div class="box d-flex">
+                          <div class="align-self-center">
+                            <h4 class="mb-15">Weddings</h4>
+                            <p>Etiam porta sem malesuada magna mollis euismod.</p>
+                            <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
+                          </div>
+                        </div>
+                        <!-- /.box -->
+                      </div>
+                      <!--/column -->
+                    </div>
+                    <!--/.row -->
+                  </div>
+                  <!--/.container-fluid -->
+                </div>
+                <!--/.image-block-wrapper -->
+              </div>
+              <!-- /.bg -->
+            </div>
+            <div class="item grid-sizer col-lg-6">
+              <div class="bg-white shadow rounded">
+                <div class="image-block-wrapper">
+                  <div class="image-block col-lg-6">
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g2.jpg" alt="">
+                    </div>
+                  </div>
+                  <!--/.image-block -->
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-lg-6 offset-lg-6">
+                        <div class="box d-flex">
+                          <div class="align-self-center">
+                            <h4 class="mb-15">Weddings</h4>
+                            <p>Etiam porta sem malesuada magna mollis euismod.</p>
+                            <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
+                          </div>
+                        </div>
+                        <!-- /.box -->
+                      </div>
+                      <!--/column -->
+                    </div>
+                    <!--/.row -->
+                  </div>
+                  <!--/.container-fluid -->
+                </div>
+                <!--/.image-block-wrapper -->
+              </div>
+              <!-- /.bg -->
+            </div>
+            <div class="item grid-sizer col-lg-6">
+              <div class="bg-white shadow rounded">
+                <div class="image-block-wrapper">
+                  <div class="image-block col-lg-6">
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g2.jpg" alt="">
+                    </div>
+                  </div>
+                  <!--/.image-block -->
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-lg-6 offset-lg-6">
+                        <div class="box d-flex">
+                          <div class="align-self-center">
+                            <h4 class="mb-15">Weddings</h4>
+                            <p>Etiam porta sem malesuada magna mollis euismod.</p>
+                            <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
+                          </div>
+                        </div>
+                        <!-- /.box -->
+                      </div>
+                      <!--/column -->
+                    </div>
+                    <!--/.row -->
+                  </div>
+                  <!--/.container-fluid -->
+                </div>
+                <!--/.image-block-wrapper -->
+              </div>
+              <!-- /.bg -->
+            </div>
+            <div class="item grid-sizer col-lg-6">
+              <div class="bg-white shadow rounded">
+                <div class="image-block-wrapper">
+                  <div class="image-block col-lg-6">
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g2.jpg" alt="">
+                    </div>
+                  </div>
+                  <!--/.image-block -->
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-lg-6 offset-lg-6">
+                        <div class="box d-flex">
+                          <div class="align-self-center">
+                            <h4 class="mb-15">Weddings</h4>
+                            <p>Etiam porta sem malesuada magna mollis euismod.</p>
+                            <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
+                          </div>
+                        </div>
+                        <!-- /.box -->
+                      </div>
+                      <!--/column -->
+                    </div>
+                    <!--/.row -->
+                  </div>
+                  <!--/.container-fluid -->
+                </div>
+                <!--/.image-block-wrapper -->
+              </div>
+              <!-- /.bg -->
+            </div>
+            <div class="item grid-sizer col-lg-6">
+              <div class="bg-white shadow rounded">
+                <div class="image-block-wrapper">
+                  <div class="image-block col-lg-6">
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g2.jpg" alt="">
+                    </div>
+                  </div>
+                  <!--/.image-block -->
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-lg-6 offset-lg-6">
+                        <div class="box d-flex">
+                          <div class="align-self-center">
+                            <h4 class="mb-15">Weddings</h4>
+                            <p>Etiam porta sem malesuada magna mollis euismod.</p>
+                            <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
+                          </div>
+                        </div>
+                        <!-- /.box -->
+                      </div>
+                      <!--/column -->
+                    </div>
+                    <!--/.row -->
+                  </div>
+                  <!--/.container-fluid -->
+                </div>
+                <!--/.image-block-wrapper -->
+              </div>
+              <!-- /.bg -->
+            </div>
+            <div class="item grid-sizer col-lg-6">
+              <div class="bg-white shadow rounded">
+                <div class="image-block-wrapper">
+                  <div class="image-block col-lg-6">
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g2.jpg" alt="">
+                    </div>
+                  </div>
+                  <!--/.image-block -->
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-lg-6 offset-lg-6">
+                        <div class="box d-flex">
+                          <div class="align-self-center">
+                            <h4 class="mb-15">Weddings</h4>
+                            <p>Etiam porta sem malesuada magna mollis euismod.</p>
+                            <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
+                          </div>
+                        </div>
+                        <!-- /.box -->
+                      </div>
+                      <!--/column -->
+                    </div>
+                    <!--/.row -->
+                  </div>
+                  <!--/.container-fluid -->
+                </div>
+                <!--/.image-block-wrapper -->
+              </div>
+              <!-- /.bg -->
+            </div>
+            <div class="item grid-sizer col-lg-6">
+              <div class="bg-white shadow rounded">
+                <div class="image-block-wrapper">
+                  <div class="image-block col-lg-6">
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g2.jpg" alt="">
+                    </div>
+                  </div>
+                  <!--/.image-block -->
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-lg-6 offset-lg-6">
+                        <div class="box d-flex">
+                          <div class="align-self-center">
+                            <h4 class="mb-15">Weddings</h4>
+                            <p>Etiam porta sem malesuada magna mollis euismod.</p>
+                            <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
+                          </div>
+                        </div>
+                        <!-- /.box -->
+                      </div>
+                      <!--/column -->
+                    </div>
+                    <!--/.row -->
+                  </div>
+                  <!--/.container-fluid -->
+                </div>
+                <!--/.image-block-wrapper -->
+              </div>
+              <!-- /.bg -->
+            </div>
+            <div class="item grid-sizer col-lg-6">
+              <div class="bg-white shadow rounded">
+                <div class="image-block-wrapper">
+                  <div class="image-block col-lg-6">
+                    <div class="image-block-bg bg-image">
+                      <img src="style/images/art/g2.jpg" alt="">
+                    </div>
+                  </div>
+                  <!--/.image-block -->
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-lg-6 offset-lg-6">
+                        <div class="box d-flex">
+                          <div class="align-self-center">
+                            <h4 class="mb-15">Weddings</h4>
+                            <p>Etiam porta sem malesuada magna mollis euismod.</p>
+                            <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
                         </div>
                         <!-- /.box -->

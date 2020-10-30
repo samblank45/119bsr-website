@@ -1,9 +1,9 @@
 <template>
-  <div class="boiler-room">
+  <div class="ramp-room">
      <div class="content-wrapper">
     <div class="wrapper light-wrapper">
       <div class="container inner pt-70 text-center">
-        <h1 class="post-title">Boiler Room</h1>
+        <h1 class="post-title">Ramp Room</h1>
         <div class="space30"></div>
         <div id="cube-grid" class="cbp light-gallery">
           <div class="cbp-item">
