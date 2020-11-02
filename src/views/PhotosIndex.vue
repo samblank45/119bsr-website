@@ -23,9 +23,9 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Basement</h4>
+                            <h4 class="mb-15">1st Floor</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
-                            <div class="arrow-link"><router-link to="/basement"> See Photos <i class="mi-arrow-right"></i></router-link> </div>
+                            <div class="arrow-link"><a href="/firstfloor"> See Photos <i class="mi-arrow-right"></i></a> </div>
                           </div>
                         </div>
                         <!-- /.box -->
@@ -55,7 +55,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Weddings</h4>
+                            <h4 class="mb-15">2nd Floor</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -87,7 +87,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Couples</h4>
+                            <h4 class="mb-15">3rd Floor</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post3.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -119,7 +119,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Fashion</h4>
+                            <h4 class="mb-15">4th Floor</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post4.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -151,7 +151,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Events</h4>
+                            <h4 class="mb-15">5th floor</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -183,7 +183,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Portraits</h4>
+                            <h4 class="mb-15">6th floor</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -215,7 +215,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Children</h4>
+                            <h4 class="mb-15">7th floor</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post3.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -247,7 +247,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Food</h4>
+                            <h4 class="mb-15">Basement</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post4.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -278,7 +278,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Weddings</h4>
+                            <h4 class="mb-15">Track Room</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -309,7 +309,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Weddings</h4>
+                            <h4 class="mb-15">Supply Room</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -340,7 +340,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Weddings</h4>
+                            <h4 class="mb-15">Paint Room</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -371,7 +371,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Weddings</h4>
+                            <h4 class="mb-15">Workshop Room</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -402,7 +402,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Weddings</h4>
+                            <h4 class="mb-15">Boiler Room</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -433,7 +433,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Weddings</h4>
+                            <h4 class="mb-15">119 Entrance</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -464,7 +464,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Weddings</h4>
+                            <h4 class="mb-15">119 Building</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -495,7 +495,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Weddings</h4>
+                            <h4 class="mb-15">129 Building</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -526,7 +526,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Weddings</h4>
+                            <h4 class="mb-15">119 Parking Lot</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -557,7 +557,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Weddings</h4>
+                            <h4 class="mb-15">129 Parking Lot</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -588,7 +588,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Weddings</h4>
+                            <h4 class="mb-15">75 Everett St Parking</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -619,7 +619,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Weddings</h4>
+                            <h4 class="mb-15">119 Rooftop</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -650,7 +650,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Weddings</h4>
+                            <h4 class="mb-15">119 Loading Dock </h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -681,7 +681,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Weddings</h4>
+                            <h4 class="mb-15">Horseshoe</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -712,7 +712,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Weddings</h4>
+                            <h4 class="mb-15">119 Passenger Elevator Room</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -743,7 +743,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Weddings</h4>
+                            <h4 class="mb-15">119 Freight Elevator room</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>
@@ -774,69 +774,7 @@
                       <div class="col-lg-6 offset-lg-6">
                         <div class="box d-flex">
                           <div class="align-self-center">
-                            <h4 class="mb-15">Weddings</h4>
-                            <p>Etiam porta sem malesuada magna mollis euismod.</p>
-                            <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
-                          </div>
-                        </div>
-                        <!-- /.box -->
-                      </div>
-                      <!--/column -->
-                    </div>
-                    <!--/.row -->
-                  </div>
-                  <!--/.container-fluid -->
-                </div>
-                <!--/.image-block-wrapper -->
-              </div>
-              <!-- /.bg -->
-            </div>
-            <div class="item grid-sizer col-lg-6">
-              <div class="bg-white shadow rounded">
-                <div class="image-block-wrapper">
-                  <div class="image-block col-lg-6">
-                    <div class="image-block-bg bg-image">
-                      <img src="style/images/art/g2.jpg" alt="">
-                    </div>
-                  </div>
-                  <!--/.image-block -->
-                  <div class="container-fluid">
-                    <div class="row">
-                      <div class="col-lg-6 offset-lg-6">
-                        <div class="box d-flex">
-                          <div class="align-self-center">
-                            <h4 class="mb-15">Weddings</h4>
-                            <p>Etiam porta sem malesuada magna mollis euismod.</p>
-                            <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
-                          </div>
-                        </div>
-                        <!-- /.box -->
-                      </div>
-                      <!--/column -->
-                    </div>
-                    <!--/.row -->
-                  </div>
-                  <!--/.container-fluid -->
-                </div>
-                <!--/.image-block-wrapper -->
-              </div>
-              <!-- /.bg -->
-            </div>
-            <div class="item grid-sizer col-lg-6">
-              <div class="bg-white shadow rounded">
-                <div class="image-block-wrapper">
-                  <div class="image-block col-lg-6">
-                    <div class="image-block-bg bg-image">
-                      <img src="style/images/art/g2.jpg" alt="">
-                    </div>
-                  </div>
-                  <!--/.image-block -->
-                  <div class="container-fluid">
-                    <div class="row">
-                      <div class="col-lg-6 offset-lg-6">
-                        <div class="box d-flex">
-                          <div class="align-self-center">
-                            <h4 class="mb-15">Weddings</h4>
+                            <h4 class="mb-15">Ramp Room</h4>
                             <p>Etiam porta sem malesuada magna mollis euismod.</p>
                             <div class="arrow-link"><a href="gallery-post2.html" class="text-muted">See Gallery <i class="mi-arrow-right"></i></a> </div>
                           </div>

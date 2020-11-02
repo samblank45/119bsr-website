@@ -16,7 +16,7 @@
           </div>
           <!--/.cbp-item -->
           <div class="cbp-item">
-            <figure class="overlay overlay3 rounded"><a href="style/images/art/jp3-full.jpg" data-sub-html="#caption2"><img src="style/images/art/jp3.jpg" alt="" />
+            <figure class="overlay overlay3 rounded"><a href="style/images/119BSR/IMG_1168.HEIC" data-sub-html="#caption2"><img src="style/images/art/jp3.jpg" alt="" />
                 <div id="caption2" class="d-none">
                   <p>Nulla vitae elit libero, a pharetra augue.</p>
                 </div>
